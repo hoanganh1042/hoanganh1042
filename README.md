@@ -17,4 +17,5 @@ Second-year student at the University of Economics Ho Chi Minh City (UEH), aimin
 Python · JavaScript · SQL · Git · GitHub Actions · pandas · scikit-learn
 
 ## Contact
+Portfolio: https://hoanganh1042.github.io  
 LinkedIn: https://www.linkedin.com/in/anh-le-hoang-b29b4938b/
